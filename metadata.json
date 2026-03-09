@@ -1,0 +1,5 @@
+{
+  "name": "BudgetBuddy",
+  "description": "Track daily expenses, PG meals, and overall monthly budget based on allocated funds. for Students",
+  "requestFramePermissions": []
+}
